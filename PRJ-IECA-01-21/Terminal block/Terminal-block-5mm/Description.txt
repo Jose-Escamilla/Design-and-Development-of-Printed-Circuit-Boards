@@ -1,0 +1,10 @@
+Diámetro de cable de 1.0 mm,
+espaciado de cable de 5 mm,
+huellas:
+2 vías: 10 mm x 8 mm,
+3 vías: 15 mm x 8 mm,
+4 vías: 20 mm x 8 mm,
+5 vías: 25 mm x 8 mm,
+6 vías: 30 mm x 8 mm ,
+7 vías: 35 mm x 8 mm,
+8 vías: 40 mm x 8 mm

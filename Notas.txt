@@ -1,0 +1,5 @@
+Componentes dimenciones 
+https://www.topline.tv/ChipComponents.html
+
+donde se añaden los 3d
+https://www.altium.com/documentation/altium-designer/pcb-obj-3dbody3d-body-ad?version=18.1
